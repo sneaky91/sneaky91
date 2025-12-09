@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sneaky91
-- 👀 I’m interested in html css aa litle Js
-- 🌱 I’m currently learning Php MySQL python and front end
+- 👋 Hi, I’m Sneaky
+- 👀 I’m interested in Java Script, Java, C AND Python
+- 🌱 I’m currently learning С#, C++, UNREAL ENGINE AND UNITY 6 
 
 <!---
 sneaky91/sneaky91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
