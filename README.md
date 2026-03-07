@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Sneaky
-- 👀 I’m interested in Front-end, and gamedev on C#
+- 👀 I’m interested in Front-end, back-end and gamedev on C#
+- so 
