@@ -19,7 +19,7 @@
 ---
 
 ![](https://raw.githubusercontent.com/Sneaky91/Sneaky91/output/github-contribution-grid-snake.svg)
-
+![](https://raw.githubusercontent.com/sneaky91/sneaky91/output/github-contribution-grid-snake.svg)
 
 ## 🎁 You can help me by Donating
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Sneaky91)
