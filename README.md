@@ -10,8 +10,16 @@
 # 📊 My Stats:
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Sneaky91&show_icons=true&theme=react-dark&count_private=true&include_all_commits=true" alt="Sneaky91 Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneaky91&layout=compact&theme=react-dark&hide=CSS,TeX&count_private=true" alt="Top Languages (no CSS/TeX)" />
+  <a href="https://github.com/Sneaky91/beautiful-github-homepage">
+    <picture>
+      <img align="center" height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=Sneaky91&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Sneaky91 Stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/Sneaky91/beautiful-github-homepage">
+    <picture>
+      <img align="center" height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&hide_title=false&layout=compact&theme=gotham&count_private=true&exclude=TeX&exclude=CSS" alt="Top Languages (no TeX/CSS)" />
+    </picture>
+  </a>
 </p>
 
 # 📊 GitHub Stats:
