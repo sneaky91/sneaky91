@@ -7,15 +7,11 @@
 
 -----
 
-
- 
+<img src="https://raw.githubusercontent.com/Sneaky91/snk/output-svg-only/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 100%;">
 
 ----
 
 # 📊 My Stats:
-
-
-<!-- ![Sneaky91's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=Sneaky91&theme=dark&show_icons=true) -->
 
 <p align="center">
   <a href="https://github.com/Sneaky91/beautiful-github-homepage">
