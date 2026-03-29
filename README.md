@@ -17,7 +17,7 @@
   </a>
   <a href="https://github.com/Sneaky91/beautiful-github-homepage">
     <picture>
-      <img align="" height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&hide_title=false&layout=compact&theme=gotham&count_private=true&exclude=TeX&" alt="Top Languages" />
+      <img align="" height="150px" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&hide_title=false&layout=compact&theme=gotham&count_private=true&exclude=TeX,CSS" alt="Top Languages" />
     </picture>
   </a>
 </p>
