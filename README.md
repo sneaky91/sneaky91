@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/Sneaky91/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Sneaky91&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Sneaky91" /></picture></a>
-  <a href="https://github.com/Sneaky91/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+  <a href="[https://github.com/Sneaky91/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&hide_title=false&layout=compact&theme=gotham&count_private=true](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&hide_title=false&layout=compact&theme=gotham&count_private=true&hide=TeX)" /></picture></a>
 </p>
 
 ## 🏆 GitHub Trophies
