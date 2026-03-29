@@ -27,8 +27,6 @@
 
 ---
 
-[![committers.top badge](https://user-badge.committers.top/ukraine/sneaky91.svg)](https://user-badge.committers.top/ukraine/sneaky91)
-
 
 
 ## 🎁 You can help me by Donating
