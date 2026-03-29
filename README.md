@@ -13,11 +13,14 @@
 ----
 
 # 📊 My Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sneaky91&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sneaky91)](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Sneaky91&theme=rose_pine&hide_border=false)<br/>
+<!-- ![Sneaky91's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=Sneaky91&theme=dark&show_icons=true) -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneaky91&hide=TeX&theme=rose_pine&layout=compact)
+<p align="center">
+  <a href="https://github.com/Sneaky91/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=Sneaky91&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Sneaky91" /></picture></a>
+  <a href="https://github.com/Sneaky91/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Sneaky91&theme=radical&no-frame=false&no-bg=true&margin-w=4)
