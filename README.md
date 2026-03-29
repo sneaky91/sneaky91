@@ -11,7 +11,7 @@
 
 <p align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Sneaky91&show_icons=true&theme=react-dark&count_private=true&include_all_commits=true" alt="Sneaky91 Stats" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneaky91&layout=compact&theme=react-dark&hide=CSS,TeX&count_private=true" alt="Top Languages (no CSS/TeX)" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneaky91&layout=compact&theme=react-dark&hide=CSS&hide=TeX&count_private=true" alt="Top Languages" />
 </p>
 
 # 📊 GitHub Stats:
