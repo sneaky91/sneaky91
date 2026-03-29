@@ -13,7 +13,7 @@
 ----
 
 # 📊 My Stats:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sneaky91)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- ![Sneaky91's GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=Sneaky91&theme=dark&show_icons=true) -->
 
