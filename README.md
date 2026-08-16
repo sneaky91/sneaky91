@@ -40,12 +40,14 @@ Interests:
   - REST APIs
   - Databases
   - Linux Servers
-  - DevOps
-  - Open Source
-  - AI APIs
 
 Favorite OS:
-  - Linux ❤️
+  - Linux ❤️ 
+  - Windows ❤️
+    
+Favorite linux Distro:
+  - Debian ❤️
+  - Fedora ❤️
 ```
 
 ---
