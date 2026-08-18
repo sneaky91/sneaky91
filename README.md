@@ -194,7 +194,7 @@ Production Deployment
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=Sneaky91&theme=github-dark-blue&hide_border=true"/> </p>
 ___
-# 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> </p>
 
