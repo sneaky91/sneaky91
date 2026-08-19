@@ -52,22 +52,6 @@ Favorite linux Distro:
 
 ---
 
-# 🚀 What I'm Working On
-
-<p align="center">
-
-🐍 <b>Python Backend</b>  
-⚡ <b>FastAPI</b>  
-🌐 <b>Django</b>  
-🗄️ <b>SQL & Databases</b>  
-🔐 <b>Authentication & JWT</b>  
-🐳 <b>Docker</b>  
-🐧 <b>Linux Servers</b>  
-🌍 <b>REST APIs</b>
-
-</p>
-
----
 
 # 🧠 Currently Learning
 
@@ -125,52 +109,6 @@ Favorite linux Distro:
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/> </p>
 
 ---
-
-### 📚 Book Management API
-
-Backend API for managing books, users and categories.
-
-### Stack
-
-```
-Python
-FastAPI
-SQLAlchemy
-PostgreSQL
-JWT
-Docker
-```
-
----
-
-# 🎯 Backend Roadmap
-
-```
-Python
-  ↓
-FastAPI
-  ↓
-REST APIs
-  ↓
-SQL
-  ↓
-PostgreSQL / MariaDB
-  ↓
-SQLAlchemy
-  ↓
-Authentication / JWT
-  ↓
-Docker
-  ↓
-Nginx
-  ↓
-Linux Server
-  ↓
-Production Deployment
-```
-
----
-
 # 🎯 2026 Goals
 
 ```
@@ -197,23 +135,6 @@ ___
 🐍 Contribution Snake
 
 <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> </p>
-
----
-
-# ⚡ Fun Facts
-
-```
-🐍 Python enjoyer
-🐧 Linux enjoyer
-⚡ API builder
-🗄️ Database enjoyer
-🐳 Docker learner
-🔧 I like building things from scratch
-🖥️ I enjoy working with servers
-🐛 Sometimes I create bugs just to fix them
-☕ Powered by coffee
-```
-
 ---
 
 # 💬 Developer Quote
