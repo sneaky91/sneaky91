@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sneaky91</h1>
 
-<h3 align="center"> 🐍 Python Backend Developer </h3>
+<h3 align="center"> 🐍learning Python Backend </h3>
 
 <p align="center"> Building APIs, working with databases, Linux servers and learning modern backend technologies. </p>
 
