@@ -120,13 +120,11 @@ Favorite linux Distro:
 
 <p align="center">
   <a href="https://github.com/Sneaky91">
-    <img height="170" src="https://beautiful-github-homepage.vercel.app/api?username=Sneaky91&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Sneaky91 GitHub Stats"/>
+    <img width="360" height="360" align="top" src="https://beautiful-github-homepage.vercel.app/api?username=Sneaky91&amp;hide_title=false&amp;custom_title=GitHub%20Stats&amp;show_icons=true&amp;hide_rank=false&amp;theme=gotham&amp;include_all_commits=true&amp;card_width=447&amp;line_height=67&amp;bg_color=0d1117&amp;title_color=36BCF7&amp;text_color=c9d1d9&amp;icon_color=36BCF7&amp;ring_color=0e7490&amp;border_color=30363d&amp;border_radius=10" alt="Sneaky91 GitHub Stats"/>
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://github.com/Sneaky91">
-    <img width="360" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&amp;layout=normal&amp;theme=gotham&amp;langs_count=6&amp;card_width=360&amp;hide_title=false&amp;bg_color=0d1117&amp;title_color=36BCF7&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=10" alt="Most Used Languages — Sneaky91"/>
+    <img width="360" height="360" align="top" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&amp;layout=normal&amp;theme=gotham&amp;langs_count=5&amp;card_width=285&amp;hide_title=false&amp;bg_color=0d1117&amp;title_color=36BCF7&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=10" alt="Most Used Languages — Sneaky91"/>
   </a>
 </p>
 
