@@ -122,8 +122,11 @@ Favorite linux Distro:
   <a href="https://github.com/Sneaky91">
     <img height="170" src="https://beautiful-github-homepage.vercel.app/api?username=Sneaky91&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Sneaky91 GitHub Stats"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Sneaky91">
-    <img height="170" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&hide_title=false&layout=compact&theme=gotham&count_private=true&exclude=CSS,HTML" alt="Top Languages"/>
+    <img width="360" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&amp;layout=normal&amp;theme=gotham&amp;langs_count=6&amp;card_width=360&amp;hide_title=false&amp;bg_color=0d1117&amp;title_color=36BCF7&amp;text_color=c9d1d9&amp;border_color=30363d&amp;border_radius=10" alt="Most Used Languages — Sneaky91"/>
   </a>
 </p>
 
