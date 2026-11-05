@@ -1,14 +1,20 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e7490&height=230&section=header&text=Sneaky91&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Backend%20Developer&descAlignY=55"/> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0e7490&height=230&section=header&text=Sneaky91&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Python%20Backend%20Developer&descAlignY=55"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Sneaky91</h1>
 
-<h3 align="center"> 🐍learning Python Backend </h3>
+<h3 align="center">🐍 learning Python Backend</h3>
 
-<p align="center"> Building APIs, working with databases, Linux servers and learning modern backend technologies. </p>
+<p align="center">Building APIs, working with databases, Linux servers and learning modern backend technologies.</p>
 
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;FastAPI+%7C+Django;REST+APIs+%7C+SQL;Linux+%7C+Docker+%7C+Nginx;Building+Backend+Projects" alt="Typing SVG"/> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;FastAPI+%7C+Django;REST+APIs+%7C+SQL;Linux+%7C+Docker+%7C+Nginx;Building+Backend+Projects" alt="Typing SVG"/>
+</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Sneaky91&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sneaky91&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -42,9 +48,9 @@ Interests:
   - Linux Servers
 
 Favorite OS:
-  - Linux ❤️ 
+  - Linux ❤️
   - Windows ❤️
-    
+
 Favorite linux Distro:
   - Debian ❤️
   - Fedora ❤️
@@ -52,26 +58,53 @@ Favorite linux Distro:
 
 ---
 
-
-# 🧠 Currently Learning
-
-|Technology|What I'm Learning|
-|---|---|
-|🐍 Python|Backend development|
-|⚡ FastAPI|REST API development|
-|🌐 Django|Web applications & backend|
-|🗄️ SQL|Queries & database design|
-|🐘 PostgreSQL|Production databases|
-|🐬 MariaDB|SQL databases|
-|🐳 Docker|Containers & deployment|
-|🐧 Linux|Servers & administration|
-|🔐 JWT|Authentication|
-|🌍 REST|API architecture|
-|🔧 SQLAlchemy|ORM & database integration|
-|📦 Pydantic|Data validation|
-
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🧠 Currently Learning</h2>
+      <table>
+        <thead>
+          <tr><th>Technology</th><th>What I'm Learning</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>🐍 Python</td><td>Backend development</td></tr>
+          <tr><td>⚡ FastAPI</td><td>REST API development</td></tr>
+          <tr><td>🌐 Django</td><td>Web applications &amp; backend</td></tr>
+          <tr><td>🗄️ SQL</td><td>Queries &amp; database design</td></tr>
+          <tr><td>🐘 PostgreSQL</td><td>Production databases</td></tr>
+          <tr><td>🐬 MariaDB</td><td>SQL databases</td></tr>
+          <tr><td>🐳 Docker</td><td>Containers &amp; deployment</td></tr>
+          <tr><td>🐧 Linux</td><td>Servers &amp; administration</td></tr>
+          <tr><td>🔐 JWT</td><td>Authentication</td></tr>
+          <tr><td>🌍 REST</td><td>API architecture</td></tr>
+          <tr><td>🔧 SQLAlchemy</td><td>ORM &amp; database integration</td></tr>
+          <tr><td>📦 Pydantic</td><td>Data validation</td></tr>
+        </tbody>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h2>🛠️ Stack</h2>
+      <table>
+        <thead>
+          <tr><th>Technology</th><th>Usage</th></tr>
+        </thead>
+        <tbody>
+          <tr><td>🐍 Python</td><td>Backend development</td></tr>
+          <tr><td>🌐 HTML</td><td>Page structure</td></tr>
+          <tr><td>🎨 CSS</td><td>Styling &amp; layouts</td></tr>
+          <tr><td>⚡ JavaScript</td><td>Web interactivity</td></tr>
+          <tr><td>🚀 FastAPI</td><td>REST APIs</td></tr>
+          <tr><td>🔀 Git</td><td>Version control</td></tr>
+          <tr><td>🐧 Linux</td><td>Development &amp; servers</td></tr>
+          <tr><td>🖌️ Figma</td><td>UI design &amp; prototyping</td></tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
+
 # 🎯 2026 Goals
 
 ```
@@ -85,24 +118,35 @@ Favorite linux Distro:
 
 # 📊 My GitHub Stats
 
-<p align="center"> <a href="https://github.com/Sneaky91"> <img height="170" src="https://beautiful-github-homepage.vercel.app/api?username=Sneaky91&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Sneaky91 GitHub Stats"/> </a>
-
-<a href="https://github.com/Sneaky91"> <img height="170" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&hide_title=false&layout=compact&theme=gotham&count_private=true&exclude=CSS,HTML" alt="Top Languages"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/Sneaky91">
+    <img height="170" src="https://beautiful-github-homepage.vercel.app/api?username=Sneaky91&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Sneaky91 GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Sneaky91">
+    <img height="170" src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Sneaky91&hide_title=false&layout=compact&theme=gotham&count_private=true&exclude=CSS,HTML" alt="Top Languages"/>
+  </a>
+</p>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center"> <img src="https://streak-stats.demolab.com?user=Sneaky91&theme=github-dark-blue&hide_border=true"/> </p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sneaky91&theme=github-dark-blue&hide_border=true"/>
+</p>
+
 ___
+
 🐍 Contribution Snake
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
 ---
 
 # 💬 Developer Quote
 
-<p align="center"> <i>"First, solve the problem. Then, write the code."</i> </p>
+<p align="center"><i>"First, solve the problem. Then, write the code."</i></p>
 
 ---
-https://private-user-images.githubusercontent.com/80776324/278918030-8b1b4fbc-1aca-454f-aeb9-331de312dc93.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTMxODA2MjMsIm5iZiI6MTc5MzE4MDMyMywicGF0aCI6Ii84MDc3NjMyNC8yNzg5MTgwMzAtOGIxYjRmYmMtMWFjYS00NTRmLWFlYjktMzMxZGUzMTJkYzkzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDI4VDA5Mzg0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ5M2I2YmRjNDFkZThiOTVkNTEzYTJmOGQyZTNmYTM0Y2U2NjE1NDNmZGYyYzIyZWI4NThiZDc1MjcyMzRmMWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.6VlVBHVmr1ORJcrPxwFiFxowx1pawtF_Sh8GfJHreXk
